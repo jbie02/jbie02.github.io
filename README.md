@@ -1,2 +1,2 @@
 # jbie02.github.io
-This my personal github glob. Some personal notes will be recorded on it. Welcome to read.
+This my personal github glob([jbie02](https://jbie02.github.io/)). Some personal notes will be recorded on it. Welcome to read.
